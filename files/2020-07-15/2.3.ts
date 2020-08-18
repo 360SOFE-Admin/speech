@@ -146,5 +146,4 @@ let timer2: ReturnType<typeof setTimeout> = setTimeout(() => {
 	// do something
 }, 1000);
 
-// 更多问题可以参考： http://wiki.so.corp.qihoo.net/pages/viewpage.action?pageId=34270166
 // 欢迎大家补充
